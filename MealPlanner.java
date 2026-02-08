@@ -1,4 +1,8 @@
+import java.util.Scanner;
 
+public class MealPlanner {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
 
         // Program constants
         final int FEMALE_CALORIES = 2000;
